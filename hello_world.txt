@@ -1,1 +1,2 @@
 hello hello hello world
+This line is to test git commit without the -m "message"
